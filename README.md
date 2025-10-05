@@ -5,8 +5,8 @@
 </h1>
 
 ## Hello, I'm [Dimas Darma](https://instagram.com/dimazdarmaa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-techwiz.biz.id-blue">](https://dimasdarma.id)
-[<img src="https://img.shields.io/badge/Email-support@techwiz.biz.id-purple">](mailto:dimasdarma48@gmail.com)
+[<img src="https://img.shields.io/badge/Website-dimasdarma.id-blue">](https://dimasdarma.id)
+[<img src="https://img.shields.io/badge/Email-dimasdarma@gmail.com-purple">](mailto:dimasdarma48@gmail.com)
 <a href="https://www.instagram.com/dimazdarmaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/jagoanneon" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 [![GitHub DimasDarma11](https://img.shields.io/github/followers/techwiz37?label=follow&style=social)](https://github.com/DimasDarma11)
