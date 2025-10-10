@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=40A597&size=28&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Dimas+Darma👋;Full-Stack+Developer+|+Mobile+App+Builder+|+Bot+Creator;Passionate+about+Web+Tech,+Automation,+and+Design" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=40A597&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Dimas+Darma👋;Full-Stack+Developer+from+Indonesia;Crafting+Web,+Mobile,+and+Bot+Solutions" />
 </h1>
 
 ---
