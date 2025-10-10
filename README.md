@@ -1,26 +1,43 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello,+i'm+DimasDarma.+22+YO;i'am+a+web,mobile+and+bot+developer">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=40A597&size=28&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Dimas+Darma👋;Full-Stack+Developer+|+Mobile+App+Builder+|+Bot+Creator;Passionate+about+Web+Tech,+Automation,+and+Design" />
 </h1>
 
-## Hello, I'm [Dimas Darma](https://instagram.com/dimazdarmaa) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> :sunglasses:
-[<img src="https://img.shields.io/badge/Website-dimasdarma.id-blue">](https://dimasdarma.id)
-[<img src="https://img.shields.io/badge/Email-dimasdarma@gmail.com-purple">](mailto:dimasdarma48@gmail.com)
-<a href="https://www.instagram.com/dimazdarmaa" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/jagoanneon" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-[![GitHub DimasDarma11](https://img.shields.io/github/followers/techwiz37?label=follow&style=social)](https://github.com/DimasDarma11)
-[![Profile Views](https://komarev.com/ghpvc/?username=techwiz37&label=Profile%20Views)](https://github.com/techwiz37)
+---
 
+### 👨‍💻 About Me
+Hi! I'm **Dimas Darma**, a 22-year-old developer passionate about creating modern, scalable web & mobile apps.  
+I love turning ideas into reality through clean code, automation, and creative design.
 
+- 💼 Currently building **[ArvoCloud](https://arvocloud.web.id)** — Cloud & VPS service platform  
+- 🧠 Learning **Next.js**, **TypeScript**, and **AI Integration**  
+- 💬 Ask me about **web development**, **bots**, or **DevOps stuff**
+
+---
+
+### 🌐 Connect With Me
+[![Website](https://img.shields.io/badge/dimasdarma.id-%230077B5.svg?&style=for-the-badge&logo=internetexplorer&logoColor=white)](https://dimasdarma.id)
+[![Instagram](https://img.shields.io/badge/@dimazdarmaa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dimazdarmaa)
+[![Email](https://img.shields.io/badge/dimasdarma48@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasdarma48@gmail.com)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/dimazdarmaa"><img src="https://github-readme-stats.vercel.app/api?username=DimasDarma11&theme=tokyonight&show_icons=true" /></a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=DimasDarma11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasDarma11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+### 🏆 Achievements
 <p align="center">
-  <a href="https://github.com/dimazdarmaa"><img src="https://github-readme-streak-stats.herokuapp.com?user=DimasDarma11&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=DimasDarma11&theme=radical&no-bg=true&margin-w=10" />
 </p>
+
+---
+
+### ⚙️ Tech Stack
 <p align="center">
-  <a href="https://github.com/dimazdarmaa"><img src="https://github-profile-trophy.vercel.app/?username=DimasDarma11&theme=radical&margin-w=20&no-bg=true&no-frame=false" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mysql,mongodb,linux,git,vercel" />
 </p>
 
