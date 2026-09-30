@@ -1,43 +1,40 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=40A597&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Dimas+Darma👋;Full-Stack+Developer+from+Indonesia;Crafting+Web,+Mobile,+and+Bot+Solutions" />
-</h1>
+# Hi, I'm Dimas Darma 👋
 
----
+**Full-Stack Developer · Indonesia**
 
-### 👨‍💻 About Me
-Hi! I'm **Dimas Darma**, a 22-year-old developer passionate about creating modern, scalable web & mobile apps.  
-I love turning ideas into reality through clean code, automation, and creative design.
+I build web applications, automation systems, and digital products with a focus on functionality, clean design, and practical solutions.
 
-- 💼 Currently building **[ArvoCloud](https://arvocloud.web.id)** — Cloud & VPS service platform  
-- 🧠 Learning **Next.js**, **TypeScript**, and **AI Integration**  
-- 💬 Ask me about **web development**, **bots**, or **DevOps stuff**
+## About
 
----
+- **Building:** [ArvoCloud](https://arvocloud.net) — Cloud & VPS platform
+- **Interests:** Web Development, Automation, DevOps
+- **Currently exploring:** TypeScript, Next.js, AI Integration
 
-### 🌐 Connect With Me
-[![Website](https://img.shields.io/badge/dimasdarma.id-%230077B5.svg?&style=for-the-badge&logo=internetexplorer&logoColor=white)](https://dimasdarma.id)
-[![Instagram](https://img.shields.io/badge/@dimazdarmaa-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dimazdarmaa)
-[![Email](https://img.shields.io/badge/dimasdarma48@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dimasdarma48@gmail.com)
+## Tech Stack
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mysql,mongodb,linux,git,vercel" alt="Tech Stack" />
+</p>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=DimasDarma11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasDarma11&layout=compact&theme=tokyonight&hide_border=true" />
+## Projects
+
+**[ArvoCloud](https://arvocloud.net)**  
+Cloud and VPS services platform with automated ordering, billing, and server management.
+
+**MOJA**  
+A programming language project inspired by the Mojokerto language.
+
+## Connect
+
+<p>
+  <a href="https://dimasdarma.id">Website</a> ·
+  <a href="https://instagram.com/dimazdarmaa">Instagram</a> ·
+  <a href="mailto:dimasdarma48@gmail.com">Email</a>
 </p>
 
 ---
 
-### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DimasDarma11&theme=radical&no-bg=true&margin-w=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DimasDarma11&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasDarma11&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top Languages" />
 </p>
-
----
-
-### ⚙️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mysql,mongodb,linux,git,vercel" />
-</p>
-
