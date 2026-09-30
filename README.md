@@ -12,7 +12,7 @@ I build web applications, automation systems, and digital products with a focus 
 
 ## Tech Stack
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,python,mysql,mongodb,linux,git,vercel" alt="Tech Stack" />
 </p>
 
@@ -26,7 +26,7 @@ A programming language project inspired by the Mojokerto language.
 
 ## Connect
 
-<p>
+<p align="left">
   <a href="https://dimasdarma.id">Website</a> ·
   <a href="https://instagram.com/dimazdarmaa">Instagram</a> ·
   <a href="mailto:dimasdarma48@gmail.com">Email</a>
@@ -35,6 +35,5 @@ A programming language project inspired by the Mojokerto language.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DimasDarma11&show_icons=true&hide_border=true&theme=transparent" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasDarma11&layout=compact&hide_border=true&theme=transparent" height="150" alt="Top Languages" />
+  <sub>Building things that solve real problems.</sub>
 </p>
