@@ -6,7 +6,7 @@ I build web applications, automation systems, and digital products with a focus 
 
 ## About
 
-- **Building:** [ArvoCloud](https://arvocloud.net) — Cloud & VPS platform
+- **Building:** [ArvoCloud](https://arvocloud.net) - Cloud & VPS platform
 - **Interests:** Web Development, Automation, DevOps
 - **Currently exploring:** TypeScript, Next.js, AI Integration
 
