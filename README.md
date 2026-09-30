@@ -29,19 +29,6 @@ A programming language project inspired by the Mojokerto language.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=DimasDarma11&show_icons=true&rank_icon=github&hide_border=true&theme=transparent"
-    height="180"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasDarma11&layout=compact&hide_border=true&theme=transparent"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=DimasDarma11&hide_border=true&theme=transparent"
     height="180"
     alt="GitHub Streak"
