@@ -1,3 +1,4 @@
+
 # Hi, I'm Dimas Darma 👋
 
 **Full-Stack Developer · Indonesia**
@@ -6,7 +7,7 @@ I build web applications, automation systems, and digital products with a focus 
 
 ## About
 
-- **Building:** [ArvoCloud](https://arvocloud.net) - Cloud & VPS platform
+- **Building:** [ArvoCloud](https://arvocloud.net) — Cloud & VPS platform
 - **Interests:** Web Development, Automation, DevOps
 - **Currently exploring:** TypeScript, Next.js, AI Integration
 
@@ -23,6 +24,29 @@ Cloud and VPS services platform with automated ordering, billing, and server man
 
 **MOJA**  
 A programming language project inspired by the Mojokerto language.
+
+## GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=DimasDarma11&show_icons=true&rank_icon=github&hide_border=true&theme=transparent"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasDarma11&layout=compact&hide_border=true&theme=transparent"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DimasDarma11&hide_border=true&theme=transparent"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
 
 ## Connect
 
